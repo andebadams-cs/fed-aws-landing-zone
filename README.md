@@ -18,7 +18,7 @@ are secured, logged, and audited.
 ### Phase 1 – Foundations (Oct–Dec 2026)
 - [x] AWS Certified Cloud Practitioner (CLF-C02)
 - [x] Billing alarms (3 CloudWatch alarms + SNS email alerts) → [write-up](docs/01-billing-alarms.md)
-- [x] MFA on root and admin users; AWS Budget
+- [x] MFA on root and admin users; AWS Budget → [write-up](docs/02-account-security.md)
 - [ ] Subnet plan: /16 split into public, app, and data subnets across two AZs
 - [ ] CompTIA Security+
 
